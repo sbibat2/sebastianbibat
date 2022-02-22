@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sebastian Bibat
 
 You can use the [editor on GitHub](https://github.com/sbibat2/sebastianbibat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
