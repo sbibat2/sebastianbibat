@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+    max-width: 15%;
+}
+
 section {
     width: 650px;
 }
